@@ -1,4 +1,4 @@
-package ExpenseTracker;
+package expense_tracker;
 
 /**
  * A container for a given expense.
